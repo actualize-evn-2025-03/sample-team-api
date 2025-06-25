@@ -4,6 +4,6 @@ class PagesController < ApplicationController
   end
 
   def show
-    render json: { message: "Hello Class again" }
+    render json: { message: "Hello Class again and again" }
   end
 end
