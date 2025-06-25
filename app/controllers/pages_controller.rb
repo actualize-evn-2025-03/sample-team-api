@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
   def index
-    render json: { message: "Hello Class" }
+    render json: { message: "Hello Class - Amelia" }
   end
 end
